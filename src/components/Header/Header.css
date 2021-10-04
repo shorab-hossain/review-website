@@ -1,0 +1,7 @@
+ul li{
+    list-style: none;
+}
+ul li Link{
+    text-decoration: none;
+    color: white;
+}
