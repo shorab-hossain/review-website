@@ -2,7 +2,6 @@
 import img from '../../img/img-slider-1.png';
 import Facility from '../Facility/Facility';
 import Services from '../Services/Services';
-import ServiceCard from '../ServiceCard/ServiceCard';
 import ('./Home.css')
 const Home = () => {
     return (
@@ -16,7 +15,6 @@ const Home = () => {
              <h1 className="text-center mb-5">ছাগলনাইয়া ব্লাড ডোনার্স ক্লাব</h1>
              <Services></Services> 
              <Facility></Facility>
-             <ServiceCard></ServiceCard>
               </div>
             </div>
     );

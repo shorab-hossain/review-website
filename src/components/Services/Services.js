@@ -1,7 +1,6 @@
 import React from 'react';
 
 const Services = (props) => {
-  console.log(props.service)
     return (
         <div className="left row g-4 row-cols-md-4 me-0 mx-auto mt-5 mb-4">
       <div className="card border-dark  me-5 w-40" >
